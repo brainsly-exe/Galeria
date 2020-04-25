@@ -11,3 +11,6 @@ O site conta com um filtro de imagens de acordo com a localidade escolhida.
 
 
 <img width="500px" src="https://github.com/Amorim-79/Galeria/blob/master/Screenshots/projectGalery3.jpg"/>
+
+### Curso:
+[Curso Web Moderno](https://www.udemy.com/course/curso-web/)
